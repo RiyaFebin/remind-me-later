@@ -24,7 +24,7 @@ Remind-Me-Later is a simple Django-based REST API that allows users to create re
 
 ##  API Endpoint
 
-### `POST /api/reminders/create/`
+### `POST /api/create/`
 
 **Request JSON:**
 
